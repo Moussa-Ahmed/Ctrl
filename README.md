@@ -1,24 +1,4 @@
-
-# Architecture
-### Customer-Service : Gestion des clients.
-### Inventory-Service : Gestion des produits.
-### Billing-Service : Gestion des factures avec Open Feign.
-### Spring Cloud Gateway : Système de routage (statique et dynamique).
-### Eureka : Annuaire pour enregistrer les microservices.
-### Configuration Service : Centralisation des configurations.
-### Client Angular : Interface utilisateur pour consommer les microservices.
-
-![image](https://github.com/user-attachments/assets/7a675ba7-fcc7-4f7c-aed1-3d624a700c7b)
-![image](https://github.com/user-attachments/assets/62cc6e02-c834-4924-9a64-32ddc0a60799)
-![image](https://github.com/user-attachments/assets/d07523e6-1f09-4468-bf97-034305f12700)
-![image](https://github.com/user-attachments/assets/99cf6e7e-cb62-452b-b4a7-779f652dcbe4)
-
-# Étapes
-### Créer Customer-Service & Inventory-Service : Spring Boot avec JPA.
-### Configurer la Gateway : Routage statique et dynamique via Eureka.
-### Ajouter Billing-Service : Interaction avec Open Feign.
-### Configurer le Configuration Service : Centraliser les configurations dans Git.
-### Développer le client Angular : Interface utilisateur pour afficher clients, produits et factures.
-
-
-
+![Capture d’écran (33)](https://github.com/user-attachments/assets/2373c92c-b56f-41bb-8c12-a643472b7ebc)
+![Capture d’écran (32)](https://github.com/user-attachments/assets/1c5bad2e-8b4d-41c6-bbcc-fc9e00037570)
+![Capture d’écran (31)](https://github.com/user-attachments/assets/f9a6386b-820e-4742-b9ef-87ee5502ed1d)
+![Capture d’écran (30)](https://github.com/user-attachments/assets/3b8fe0ee-fe4d-4188-b95a-63d5f383e20f)
